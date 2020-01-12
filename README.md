@@ -1,4 +1,4 @@
 # vigilant-telegram
 
-Hello Coders!
-I'm Ritu and I'm fond of C++
+Hello Humans!!
+This is Ritu and she is fond of C++ 
